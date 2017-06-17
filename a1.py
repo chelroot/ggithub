@@ -8,7 +8,7 @@ from datetime import datetime, timedelta
 a = datetime.now() #Проверка
 print (a)
 
-b = datetime.strptime( "2009", "%Y" )
+b = datetime.strptime( "2009", "%Y" ) # Проверка 2
 print (b)
 
 c = datetime.strptime( "2009-11-12 23:18:53", "%Y-%m-%d %H:%M:%S" )
