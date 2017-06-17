@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 #import time
 
 
-a = datetime.now()
+a = datetime.now() #Проверка
 print (a)
 
 b = datetime.strptime( "2009", "%Y" )
