@@ -41,5 +41,9 @@ print (tt)
 ttt = datetime.strftime(datetime.now() + timedelta(hours=-1), "%H")
 print (ttt)
 
+dm7d = datetime.strftime(datetime.now() + timedelta(days=-7), "%d.%m")
+print (dm7d)
+
+
 #e = timedelta(hours=2)
 #ee = ggg+e
