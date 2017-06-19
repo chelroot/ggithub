@@ -44,6 +44,8 @@ print (ttt)
 dm7d = datetime.strftime(datetime.now() + timedelta(days=-7), "%d.%m")
 print (dm7d)
 
+#http://80.255.89.230/vid74/
+#
 
 #e = timedelta(hours=2)
 #ee = ggg+e
